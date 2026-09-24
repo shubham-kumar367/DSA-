@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shubham-kumar367/DSA-/tree/master/0374-guess-number-higher-or-lower) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubham-kumar367/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shubham-kumar367/DSA-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubham-kumar367/DSA-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/shubham-kumar367/DSA-/tree/master/3525-find-x-value-of-array-ii) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shubham-kumar367/DSA-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
