@@ -7,11 +7,9 @@ public:
                 res.insert(x + y);
         return res;
     }
-
     set<string> solve(string &s, int &i) {
         set<string> res;
         set<string> cur;
-        
         while(i < s.size() && s[i] != '}') {
             if(s[i] == '{') {
                 i++;
@@ -34,7 +32,6 @@ public:
         res.insert(cur.begin(), cur.end());
         return res;
     }
-
     vector<string> braceExpansionII(string expression) {
         int i = 0;
         set<string> ans = solve(expression, i);
