@@ -4,27 +4,27 @@ public:
     string reverseParentheses(string s)
     {
         stack<string> st;
-        string cur = "";
+        string current = "";
 
         for(char c : s)
         {
             if(c == '(')
             {
-                st.push(cur);
-                cur = "";
+                st.push(current);
+                current = "";
             }
             else if(c == ')')
             {
-                reverse(cur.begin(), cur.end());
-                cur = st.top() + cur;
+                reverse(current.begin(), current.end());
+                current = st.top() + current;
                 st.pop();
             }
             else
             {
-                cur += c;
+                current += c;
             }
         }
 
-        return cur;
+        return current;
     }
 };
