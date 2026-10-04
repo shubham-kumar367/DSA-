@@ -11,7 +11,7 @@ public:
                 low--;
                 high--;
             } else { 
-                // '*' can be ')', empty, or '('
+            
                 low--;
                 high++;
             }
