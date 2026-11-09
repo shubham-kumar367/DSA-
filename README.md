@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shubham-kumar367/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubham-kumar367/DSA-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shubham-kumar367/DSA-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shubham-kumar367/DSA-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shubham-kumar367/DSA-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shubham-kumar367/DSA-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shubham-kumar367/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shubham-kumar367/DSA-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/shubham-kumar367/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shubham-kumar367/DSA-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shubham-kumar367/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shubham-kumar367/DSA-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bit Manipulation
@@ -310,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shubham-kumar367/DSA-/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shubham-kumar367/DSA-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
